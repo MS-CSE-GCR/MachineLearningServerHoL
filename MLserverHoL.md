@@ -8,5 +8,5 @@
 4. Connect to a remote Server [Reference](https://docs.microsoft.com/en-us/machine-learning-server/operationalize/how-to-connect-log-in-with-mrsdeploy)
 5. Execute Code Remotely [Reference](https://docs.microsoft.com/en-us/machine-learning-server/r/how-to-execute-code-remotely)
 6. Publish and Deploy a Model [Reference](https://docs.microsoft.com/en-us/machine-learning-server/operationalize/how-to-deploy-web-service-publish-manage-in-r)
-### 2. HDInsight ###
-1. Provisioning and Deploy Azure HDInsight (with portal ad Resource Manager template)
+### 2. Azure HDInsight ###
+1. Provisioning and Deploying Spark Cluster on Azure HDInsight (with portal ad Resource Manager template) [Reference](https://docs.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-jupyter-spark-sql-use-portal)
